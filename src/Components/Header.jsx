@@ -3,7 +3,7 @@ export default function Header() {
     return (
         <header className="header">
             <img 
-                src="./src/assets/trollface.webp" 
+                src="./src/assets/troll.png" 
                 className="header--image"
             />
             <h2 className="header--title">Meme Generator</h2>
